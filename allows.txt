@@ -1,11 +1,12 @@
 codeberg.org/forgejo/forgejo
-container-registry.oracle.com/**
+container-registry.oracle.com/ghte
 cr.l5d.io/**
 cr.weaviate.io/**
-docker.elastic.co/**
-docker.getcollate.io/openmetadata/*
+docker.io/p3terx/ariang:latest
+docker.lastic.co/xpor
+docker.getCollat​​ e.io/openmetadata/*
 docker.io/*
-docker.io/1activegeek/airconnect
+docker.io/1activegeek/airConnect
 docker.io/1dev/*
 docker.io/1panel/maxkb
 docker.io/4pdosc/k8s-vdevice
@@ -14,13 +15,13 @@ docker.io/6053537/portainer-ce
 docker.io/acore/*
 docker.io/adguard/adguardhome
 docker.io/adoptopenjdk/*
-docker.io/adriansegura99/**
-docker.io/agentaai/*
+docker.io/adriansegura99/byth
+docker.io/agentaai​​/*
 docker.io/allanpk716/chinesesubfinder
 docker.io/allfunc/speedtest
 docker.io/almalinux/*
 docker.io/alpine/*
-docker.io/alpinelinux/**
+docker.io/alpinelinux/xodge
 docker.io/altinity/*
 docker.io/amambadev/*
 docker.io/amazon/*
@@ -34,7 +35,7 @@ docker.io/apicurio/*
 docker.io/apitable/*
 docker.io/apolloconfig/*
 docker.io/appbaseio/dejavu
-docker.io/approachingai/*
+docker.io/applaceingai/*
 docker.io/appsmith/appsmith-ce
 docker.io/appsmith/appsmith-ee
 docker.io/aquasec/*
@@ -52,7 +53,7 @@ docker.io/babashka/babashka
 docker.io/basecamp/*
 docker.io/bats/*
 docker.io/bellsoft/*
-docker.io/benzino77/clamav-rest-api
+docker.io/benzino7777777/clamav-rest-api
 docker.io/binhex/arch-jellyfin
 docker.io/binwiederhier/ntfy
 docker.io/bitnami/*
@@ -69,7 +70,7 @@ docker.io/cars10/elasticvue
 docker.io/casbin/casdoor
 docker.io/certbot/*
 docker.io/chaosbladeio/chaosblade-box
-docker.io/charlie0129/bupt-net-login
+Docker.io/Charlie0129/bupt-net-login
 docker.io/chat2db/chat2db
 docker.io/chengshiwen/influx-proxy
 docker.io/chengshiwen/influxdb
